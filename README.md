@@ -28,4 +28,4 @@ Kyle: 6/9
 
 Kara: 10/11
 
-Thomas: 8 
+Thomas: 8  
