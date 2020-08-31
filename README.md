@@ -1,5 +1,5 @@
 # WineAboutItProject          
-Wine Reviews Project   
+Wine Reviews Project    
 
 Members: Thomas, Madison, Kyle, Saya, Kara 
 
