@@ -1,7 +1,7 @@
 # WineAboutItProject          
 Wine Reviews Project 
 
-Members: Thomas, Madison, Kyle, Saya, Kara
+Members: Thomas, Madison, Kyle, Saya, Kara 
 
 Our data is https://www.kaggle.com/zynicide/wine-reviews
 
