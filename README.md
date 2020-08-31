@@ -20,7 +20,7 @@ With a general interest in wine, we are all curious about what is the best. Ther
 
 Data Cleaning: As a group
 
-Madison: 1
+Madison: 1 
 
 Saya: 2/3
 
