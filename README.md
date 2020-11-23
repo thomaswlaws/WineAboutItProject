@@ -15,7 +15,7 @@ Our data is https://www.kaggle.com/zynicide/wine-reviews
 8.) Is wine getting better year by year
 9.)How much money does it cost to get a highly rated wine by country?
 10.)Which wineries have the most expensive/ highly rated wines?
-11.) Which wineries/reigions/ countries produce the lowest rated wines?
+11.) Which wineries/regions/countries produce the lowest rated wines?
 With a general interest in wine, we are all curious about what is the best. There are many types, prices, descriptions of wines that leave you at the liquor store confused. This project aims to look at what consumers believe is the best wines for the best price. This project also aims to see which parts of the world produce the most highly rated wines, in an attempt to look at what is most popular with Wine Enthusiast magazine reviewers and consumers in general.
 
 Data Cleaning: As a group
